@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Margaret Anderson Kilfoil
+subtitle: Who I am and what I do
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I learned to knit as a small child, although it grew into more of a “lifestyle choice” than a hobby by my early 20s. Around this time, I also learned about to dye, spin, crochet and weave, although knitting remains my core love. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The other thing you need to know about me is that I am a huge data nerd. I started researching knitting for my sociology thesis on gender and knitting, and haven't seemed to be able to stop.  Most of my research these days uses my data science and programming skills to explore the modern knitting community. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you ever want to geek out over data stuff or yarn (or both!), feel free to drop me a line at any of the contact details below.
